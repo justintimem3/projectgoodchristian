@@ -1,2 +1,3 @@
 # projectgoodchristian
-prayer and other christian things website with design for firebase
+### Pet Project
+Prayer and other christian things website with design for firebase
